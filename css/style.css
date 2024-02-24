@@ -283,7 +283,7 @@ h1{
     .service{
         flex-wrap: wrap;
         justify-content: center;
-        align-items: center;
+        align-items: stretch;
     }
 
     .shop-link__block{
